@@ -1,2 +1,2 @@
-# cangaceiro-javascript
-Uma aventura no  sertão da programação (Cangaceiro JavaScript)
+# Cangaceiro Javascript
+Uma aventura no  sertão da programação
